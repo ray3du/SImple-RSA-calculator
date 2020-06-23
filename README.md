@@ -4,5 +4,7 @@ This is a simple rsa calculator that accepts numerical values and decrypts it to
 ## Installation
 git clone https://github.com/ray3du/SImple-RSA-calculator.git
 
+cd SImple-RSA-calculator
+
 ## Usage
 python rsadecrypt.py file modulus d
